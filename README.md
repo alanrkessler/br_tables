@@ -4,4 +4,4 @@ The ability to scrape [Baseball Reference](https://www.baseball-reference.com/) 
 
 Please follow Baseball Reference's terms of service associated with collecting and using the data they host.
 
-[Notebook Examples](\Notebook%20Examples.ipynb)
+[Notebook Examples](Notebook%20Examples.ipynb)
